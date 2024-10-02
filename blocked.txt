@@ -7,3 +7,5 @@ rpkjdu.shop/
 instantfile.cfd
 bcgame.vc
 bc.co
+https://accounts.google.com/AddSession
+https://accounts.google.com/Logout
