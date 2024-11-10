@@ -1,4 +1,3 @@
-chrome://extensions/
 malecursor.com
 abbaspc.net/
 example.com
