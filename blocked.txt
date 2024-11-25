@@ -30,3 +30,4 @@ akale4.pro
 holputy.shop
 oknela.pro
 pcappstore.com
+media1.2sd231s.store
