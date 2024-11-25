@@ -5,3 +5,6 @@ facebook.com
 instagram.com
 linkedin.com
 office365.com
+amazon.in
+flipkart.com
+meesho.com
