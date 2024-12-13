@@ -8,3 +8,5 @@ office365.com
 amazon.in
 flipkart.com
 meesho.com
+airtel.in
+lic.nextviewkavach.com
