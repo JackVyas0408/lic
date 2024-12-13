@@ -40,3 +40,4 @@ aigroumpid.com
 *.*.cfd
 lowtirtougaa.com
 getsmartyapp.com
+readyf1.lol
