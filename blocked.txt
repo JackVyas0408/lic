@@ -46,3 +46,4 @@ piratepc.info
 mediafirehouses.click
 cloudstreaming.click
 freepc.hopto.org
+www.piratepc.info
