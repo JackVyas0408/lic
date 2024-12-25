@@ -52,3 +52,5 @@ feba.bobibanking.com
 infinity.icicibank.com/
 omni.axisbank.co.in/
 netbanking.hdfcbank.com/
+gitlab.com
+github.com
