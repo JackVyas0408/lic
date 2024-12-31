@@ -53,3 +53,4 @@ amz-storage.online
 micedge.store
 getsmartyapp.com
 fine-download.com
+www.getsmartyapp.com
