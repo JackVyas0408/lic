@@ -58,3 +58,4 @@ join4ra.com
 kiwipsum.com
 voagouboomoopel.com
 sos-ch-gva-2-exo-io.b-cdn.net
+*b-cdn.net
