@@ -62,3 +62,4 @@ sos-ch-gva-2-exo-io.b-cdn.net
 *exo.io
 ptoagrackouwi.com
 *.catly.info
+en.winxnow.com
