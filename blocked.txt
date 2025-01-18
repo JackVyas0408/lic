@@ -64,3 +64,4 @@ ptoagrackouwi.com
 *.catly.info
 en.winxnow.com
 *.oraclecloud.com
+*1.oraclecloud.com
