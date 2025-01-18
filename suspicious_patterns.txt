@@ -1,0 +1,4 @@
+mshta
+javascript:eval
+powershell
+cmd.exe
