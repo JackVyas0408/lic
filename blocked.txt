@@ -65,3 +65,4 @@ ptoagrackouwi.com
 en.winxnow.com
 *.oraclecloud.com
 *1.oraclecloud.com
+objectstorage.sa-santiago-1.oraclecloud.com
