@@ -1,17 +1,16 @@
 {
-    "gmail": {
-      "composeWindowSelector": "div.nH.Hd[role='dialog']",
-      "sendButtonSelector": ".T-I.J-J5-Ji.aoO.v7.T-I-atl.L3",
-      "moreSendOptionsSelector": "[aria-label='More send options']",
-      "replyButtonSelectors": [
-        ".T-I.J-J5-Ji.T-I-Js-IF.aaq.T-I-ax7.L3",
-        ".T-I.J-J5-Ji.T-I-Js-Gs.aap.T-I-ax7.L3"
-      ]
-    },
-    "outlook": {
-      "composeWindowSelector": "div.composeMsg",
-      "sendButtonSelector": "button.sendBtn",
-      "moreSendOptionsSelector": "button.moreOptions"
-    }
+  "gmail": {
+    "composeWindowSelector": "div.nH.Hd[role='dialog']",
+    "sendButtonSelector": ".T-I.J-J5-Ji.aoO.v7.T-I-atl.L3",
+    "moreSendOptionsSelector": "[aria-label*='More']",
+    "replyButtonSelectors": [
+      ".T-I.J-J5-Ji.T-I-Js-IF.aaq.T-I-ax7.L3",
+      ".T-I.J-J5-Ji.T-I-Js-Gs.aap.T-I-ax7.L3"
+    ]
+  },
+  "outlook": {
+    "composeWindowSelector": "div.composeMsg",
+    "sendButtonSelector": "button.sendBtn",
+    "moreSendOptionsSelector": "button.moreOptions"
   }
-  
+}
