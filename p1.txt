@@ -1,2 +1,8 @@
-tv.cloudwalker.neonlauncher.com
+com.stark.store
 tv.cloudwalker.profile
+com.seraphic.openinet.cvte
+com.cvte.tv.pictorial
+com.zeasn.services.general
+tv.cloudwalker.cloudwalkeruniverse
+tv.cloudwalker.market
+tv.cloudwalker.search
