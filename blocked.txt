@@ -60,6 +60,7 @@ voagouboomoopel.com
 sos-ch-gva-2-exo-io.b-cdn.net
 *b-cdn.net
 *exo.io
+*.cyou
 ptoagrackouwi.com
 *.catly.info
 en.winxnow.com
