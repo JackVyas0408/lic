@@ -8,6 +8,7 @@ rpkjdu.shop/
 instantfile.cfd
 bcgame.vc
 bc.co
+*.space
 bot-check-404.b-cdn.net
 la.dibbledcambuca.top
 windows10activator.net
