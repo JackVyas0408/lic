@@ -1,6 +1,3 @@
-netbanking.kotak.com/knb2/
-retail.onlinesbi.sbi/retail/login.htm
-feba.bobibanking.com
-infinity.icicibank.com/
-omni.axisbank.co.in/
-netbanking.hdfcbank.com/
+https://netbanking.kotak.bank.in/knb2/
+https://retail.sbi.bank.in/retail/login.htm
+https://bankofbaroda.bank.in/
