@@ -1,3 +1,1 @@
-https://netbanking.kotak.bank.in
-https://retail.sbi.bank.in/retail/login.htm
-https://bankofbaroda.bank.in/
+https://netbanking.kotak.bank.in/knb2/
